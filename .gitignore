@@ -1,0 +1,27 @@
+# Archivos generados por cargo
+/target/
+**/*.rs.bk
+
+# Archivos de configuración generados por editores/IDEs
+**/*.swp
+**/*.swo
+.idea/
+.vscode/
+*.iml
+
+# Archivos de registro y dependencias
+Cargo.lock
+**/node_modules/
+
+# Configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales y de compilación
+*.tmp
+*.log
+*.bak
+*.out
+
+# Archivos de depuración
+*.profraw
