@@ -1,5 +1,6 @@
 # Archivos generados por cargo
 /target/
+/hello-cargo/target
 **/*.rs.bk
 
 # Archivos de configuración generados por editores/IDEs
